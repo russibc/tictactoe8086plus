@@ -15,4 +15,4 @@ You don't even need to understand assembly. Just open **`tictactoe8086plus`** Pr
 
 ## License
 Released under the [GPLv3](LICENSE) license.
-Developed by [Bruna Caroline Russi](github.com/russibc).
+Developed by [Bruna](github.com/russibc).
